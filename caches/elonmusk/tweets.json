@@ -1,0 +1,489 @@
+[
+    {
+        "type": "tweet",
+        "id": "1822449612705472792",
+        "url": "https://x.com/elonmusk/status/1822449612705472792",
+        "twitterUrl": "https://twitter.com/elonmusk/status/1822449612705472792",
+        "text": "RT @MarioNawfal: 🚨MUST WATCH: MR. BEAN'S DEFINITIVE DEFENSE OF FREE SPEECH (FULL VIDEO)\n\nRowan Atkinson:\n\n\"The clear problem with the outla…",
+        "source": "Twitter for iPhone",
+        "retweetCount": 9838,
+        "replyCount": 1271,
+        "likeCount": 44503,
+        "quoteCount": 734,
+        "viewCount": 3582157,
+        "createdAt": "Sun Aug 11 01:47:01 +0000 2024",
+        "lang": "en",
+        "bookmarkCount": 6351,
+        "isReply": false,
+        "author": {
+            "type": "user",
+            "userName": "elonmusk",
+            "url": "https://x.com/elonmusk",
+            "twitterUrl": "https://twitter.com/elonmusk",
+            "id": "44196397",
+            "name": "Elon Musk",
+            "isVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+            "description": "",
+            "location": "",
+            "followers": 193707380,
+            "following": 693,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": false,
+            "createdAt": "Tue Jun 02 20:12:29 +0000 2009",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 66416,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2385,
+            "statusesCount": 49148,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {
+                "label": {
+                    "url": {
+                        "url": "https://twitter.com/X",
+                        "urlType": "DeepLink"
+                    },
+                    "badge": {
+                        "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
+                    },
+                    "description": "X",
+                    "userLabelType": "BusinessLabel",
+                    "userLabelDisplayType": "Badge"
+                }
+            }
+        },
+        "extendedEntities": {},
+        "card": {},
+        "place": {},
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1319287761048723458",
+                    "name": "Mario Nawfal",
+                    "screen_name": "MarioNawfal",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ]
+        },
+        "isRetweet": true,
+        "retweet": {
+            "type": "tweet",
+            "id": "1822375229760664018",
+            "text": "🚨MUST WATCH: MR. BEAN'S DEFINITIVE DEFENSE OF FREE SPEECH (FULL VIDEO)\n\nRowan Atkinson:\n\n\"The clear problem with the outlawing of insult - is that too many things can be interpreted as such.\"\n\nSource: @avavidan",
+            "source": "Twitter Web App",
+            "retweetCount": 9838,
+            "replyCount": 1271,
+            "likeCount": 44503,
+            "quoteCount": 734,
+            "viewCount": 3582157,
+            "createdAt": "Sat Aug 10 20:51:27 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 6351,
+            "author": {
+                "type": "user",
+                "userName": "MarioNawfal",
+                "url": "https://x.com/MarioNawfal",
+                "twitterUrl": "https://twitter.com/MarioNawfal",
+                "id": "1319287761048723458",
+                "name": "Mario Nawfal",
+                "isVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/1319287761048723458/1687204248",
+                "description": "Unfiltered Unbiased Verified 24x7 Breaking News | NO BIAS, NO ECHO CHAMBERS: Host of the Largest Show on 𝕏 | Founder & Investor",
+                "location": "",
+                "followers": 1598127,
+                "following": 27908,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": true,
+                "createdAt": "Thu Oct 22 14:42:25 +0000 2020",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "roundtable.live",
+                                "expanded_url": "https://roundtable.live",
+                                "url": "https://t.co/Lru9VAixI8",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 132233,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 37940,
+                "statusesCount": 56405,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {
+                    "label": {
+                        "url": {
+                            "url": "https://twitter.com/RoundtableSpace",
+                            "urlType": "DeepLink"
+                        },
+                        "badge": {
+                            "url": "https://pbs.twimg.com/profile_images/1750481240983994368/ijRW1a6Y_bigger.jpg"
+                        },
+                        "description": "Mario Nawfal’s Roundtable",
+                        "userLabelType": "BusinessLabel",
+                        "userLabelDisplayType": "Badge"
+                    }
+                }
+            },
+            "extendedEntities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/2llx1uyrio",
+                        "expanded_url": "https://twitter.com/MarioNawfal/status/1822375229760664018/video/1",
+                        "id_str": "1822374504598818816",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_key": "7_1822374504598818816",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822374504598818816/pu/img/IJzv5J9rogBm_ahG.jpg",
+                        "type": "video",
+                        "url": "https://t.co/2lLX1UYRIO",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 565196,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/pl/TiwG3tu1bTVhzIp8.m3u8?tag=12&v=42b"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/480x270/bn5ybnSj7Bouil3Z.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/640x360/CHaTqH34oDt85j8c.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/1280x720/Eig_MCWOVMVmI_uo.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "7_1822374504598818816"
+                            }
+                        }
+                    }
+                ]
+            },
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/2llx1uyrio",
+                        "expanded_url": "https://twitter.com/MarioNawfal/status/1822375229760664018/video/1",
+                        "id_str": "1822374504598818816",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_key": "7_1822374504598818816",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822374504598818816/pu/img/IJzv5J9rogBm_ahG.jpg",
+                        "type": "video",
+                        "url": "https://t.co/2lLX1UYRIO",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 565196,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/pl/TiwG3tu1bTVhzIp8.m3u8?tag=12&v=42b"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/480x270/bn5ybnSj7Bouil3Z.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/640x360/CHaTqH34oDt85j8c.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/1280x720/Eig_MCWOVMVmI_uo.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "7_1822374504598818816"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "2656146162",
+                        "name": "Avi Avidan",
+                        "screen_name": "avavidan",
+                        "indices": [
+                            201,
+                            210
+                        ]
+                    }
+                ]
+            }
+        },
+        "isQuote": false,
+        "media": [],
+        "isConversationControlled": false
+    },
+    {
+        "type": "tweet",
+        "id": "1822371230214664278",
+        "url": "https://x.com/elonmusk/status/1822371230214664278",
+        "twitterUrl": "https://twitter.com/elonmusk/status/1822371230214664278",
+        "text": "Hoping to do more to help people in Gaza",
+        "source": "Twitter for iPhone",
+        "retweetCount": 9349,
+        "replyCount": 8957,
+        "likeCount": 93902,
+        "quoteCount": 1267,
+        "viewCount": 21169255,
+        "createdAt": "Sat Aug 10 20:35:33 +0000 2024",
+        "lang": "en",
+        "quoteId": "1822263866744508502",
+        "bookmarkCount": 2349,
+        "isReply": false,
+        "author": {
+            "type": "user",
+            "userName": "elonmusk",
+            "url": "https://x.com/elonmusk",
+            "twitterUrl": "https://twitter.com/elonmusk",
+            "id": "44196397",
+            "name": "Elon Musk",
+            "isVerified": true,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+            "description": "",
+            "location": "",
+            "followers": 193707380,
+            "following": 693,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": false,
+            "createdAt": "Tue Jun 02 20:12:29 +0000 2009",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 66416,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2385,
+            "statusesCount": 49148,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {
+                "label": {
+                    "url": {
+                        "url": "https://twitter.com/X",
+                        "urlType": "DeepLink"
+                    },
+                    "badge": {
+                        "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
+                    },
+                    "description": "X",
+                    "userLabelType": "BusinessLabel",
+                    "userLabelDisplayType": "Badge"
+                }
+            }
+        },
+        "extendedEntities": {},
+        "card": {},
+        "place": {},
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "isRetweet": false,
+        "isQuote": true,
+        "quote": {
+            "type": "tweet",
+            "id": "1822263866744508502",
+            "text": "Elon Musk’s Starlink at UAE’s Gaza Field Hospital has helped our facility to provide humanitarian medical assistance to 1000s of innocent people, especially children. Thank you Elon !",
+            "source": "Twitter for iPhone",
+            "retweetCount": 861,
+            "replyCount": 700,
+            "likeCount": 7757,
+            "quoteCount": 168,
+            "viewCount": 21033028,
+            "createdAt": "Sat Aug 10 13:28:56 +0000 2024",
+            "lang": "en",
+            "bookmarkCount": 287,
+            "author": {
+                "type": "user",
+                "userName": "HSajwanization",
+                "url": "https://x.com/HSajwanization",
+                "twitterUrl": "https://twitter.com/HSajwanization",
+                "id": "431777800",
+                "name": "حسن سجواني 🇦🇪 Hassan Sajwani",
+                "isVerified": true,
+                "profilePicture": "https://pbs.twimg.com/profile_images/1525434442021539842/99GMvtNA_normal.jpg",
+                "coverPicture": "https://pbs.twimg.com/profile_banners/431777800/1652526898",
+                "description": "Hassan Sajwani-  an Emirati posts news, tech, business #counterTerrorism, politics, RPs not endorsements. Patriot #الله_ثم_الوطن_ثم_رئيس_الدولة Personal account",
+                "location": "Dubai, United Arab Emirates",
+                "followers": 249785,
+                "following": 637,
+                "status": "",
+                "canDm": true,
+                "canMediaTag": false,
+                "createdAt": "Thu Dec 08 17:40:27 +0000 2011",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "dubai.ae",
+                                "expanded_url": "http://www.dubai.ae",
+                                "url": "https://t.co/OEIWTryjvg",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "fastFollowersCount": 0,
+                "favouritesCount": 49898,
+                "hasCustomTimelines": true,
+                "isTranslator": false,
+                "mediaCount": 28797,
+                "statusesCount": 137610,
+                "withheldInCountries": [],
+                "affiliatesHighlightedLabel": {}
+            },
+            "extendedEntities": {},
+            "card": {},
+            "place": {},
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            }
+        },
+        "media": [],
+        "isConversationControlled": false
+    }
+]

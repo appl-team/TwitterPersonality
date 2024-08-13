@@ -1,0 +1,10 @@
+settings:
+  logging:
+    display:
+      llm_raw_usage: True
+
+servers:
+  # The default model set by APPL is gpt-3.5-turbo
+  default: claude-35-sonnet # override the default server according to your needs
+  claude-35-sonnet:
+    model: claude-3-5-sonnet-20240620

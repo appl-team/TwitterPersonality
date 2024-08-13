@@ -1,0 +1,223 @@
+[
+    {
+        "type": "user",
+        "userName": "elonmusk",
+        "url": "https://x.com/elonmusk",
+        "twitterUrl": "https://twitter.com/elonmusk",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "isVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+        "description": "",
+        "location": "",
+        "followers": 193707106,
+        "following": 693,
+        "protected": false,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Jun 02 20:12:29 +0000 2009",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 66416,
+        "listedCount": 151064,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2385,
+        "statusesCount": 49148,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+            "label": {
+                "url": {
+                    "url": "https://twitter.com/X",
+                    "urlType": "DeepLink"
+                },
+                "badge": {
+                    "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
+                },
+                "description": "X",
+                "userLabelType": "BusinessLabel",
+                "userLabelDisplayType": "Badge"
+            }
+        },
+        "professional": {
+            "rest_id": "1679729435447275522",
+            "professional_type": "Creator",
+            "category": []
+        }
+    },
+    {
+        "noResults": true
+    },
+    {
+        "followedBy": "elonmusk",
+        "type": "user",
+        "userName": "jordanbpeterson",
+        "url": "https://x.com/jordanbpeterson",
+        "twitterUrl": "https://twitter.com/jordanbpeterson",
+        "id": "95092020",
+        "name": "Dr Jordan B Peterson",
+        "isVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1407056014776614923/TKBC60e1_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/95092020/1722041948",
+        "description": "Best-Selling Author | Clinical Psychologist | #1 Education Podcast | Limited pre-enrollment to @petersonacademy is now available:",
+        "location": "",
+        "followers": 5446326,
+        "following": 1659,
+        "protected": false,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sun Dec 06 23:33:02 +0000 2009",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "petersonacademy.com",
+                        "expanded_url": "http://petersonacademy.com",
+                        "url": "https://t.co/LooUHeNXiG",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 158,
+        "listedCount": 14373,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 7199,
+        "statusesCount": 50255,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "professional": {
+            "rest_id": "1680046132699840514",
+            "professional_type": "Creator",
+            "category": [
+                {
+                    "id": 144,
+                    "name": "Education",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        }
+    },
+    {
+        "followedBy": "elonmusk",
+        "type": "user",
+        "userName": "DonaldJTrumpJr",
+        "url": "https://x.com/DonaldJTrumpJr",
+        "twitterUrl": "https://twitter.com/DonaldJTrumpJr",
+        "id": "39344374",
+        "name": "Donald Trump Jr.",
+        "isVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/39344374/1674355501",
+        "description": "",
+        "location": "Florida, USA",
+        "followers": 11854835,
+        "following": 2017,
+        "protected": false,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon May 11 21:18:33 +0000 2009",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/donaldjtrumpjr",
+                        "expanded_url": "https://linktr.ee/donaldjtrumpjr",
+                        "url": "https://t.co/ni5HwFvEjX",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 34951,
+        "listedCount": 21646,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3030,
+        "statusesCount": 49330,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {}
+    },
+    {
+        "followedBy": "elonmusk",
+        "type": "user",
+        "userName": "TheBabylonBee",
+        "url": "https://x.com/TheBabylonBee",
+        "twitterUrl": "https://twitter.com/TheBabylonBee",
+        "id": "4914384040",
+        "name": "The Babylon Bee",
+        "isVerified": true,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1400100770624720898/-HC7kL5x_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/4914384040/1718147424",
+        "description": "Fake news you can trust.",
+        "location": "United States",
+        "followers": 3913798,
+        "following": 10,
+        "protected": false,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Feb 15 16:05:21 +0000 2016",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/babylonbee",
+                        "expanded_url": "http://linktr.ee/babylonbee",
+                        "url": "https://t.co/kKf9mnfU9J",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1658,
+        "listedCount": 7328,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "mediaCount": 11262,
+        "statusesCount": 27861,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "professional": {
+            "rest_id": "1649577634316304385",
+            "professional_type": "Business",
+            "category": [
+                {
+                    "id": 580,
+                    "name": "Media & News Company",
+                    "icon_name": "IconBriefcaseStroke"
+                }
+            ]
+        }
+    }
+]
